@@ -13,7 +13,7 @@
 <hr>
 <h2>Demonstração da aplicação</h2>
 <p>
-  <a href="https://vmedeiros-netflix-interface-clone.vercel.app/" target="_blank">Link da aplicação</a>
+  <a href="https://vmedeiros-projeto-netflix-interface.vercel.app/" target="_blank">Link da aplicação</a>
 </p>
 <div align="center">
   <img width="600" src="./img/netflixDemonstration.gif" alt="Demonstração da aplicação no Desktop">
